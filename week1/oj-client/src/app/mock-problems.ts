@@ -1,0 +1,32 @@
+import { Problem } from './models/problem.model';
+export const PROBLEMS: Problem[] = [{
+  id: 1,
+  name: "yuffie",
+  desc: "123",
+  difficulty: "easy"
+}, {
+  id: 2,
+  name: "haoqiang",
+  desc: "123",
+  difficulty: "easy"
+}, {
+  id: 3,
+  name: "xiaoming",
+  desc: "123",
+  difficulty: "medium"
+}, {
+  id: 4,
+  name: "sun",
+  desc: "123",
+  difficulty: "hard"
+}, {
+  id: 5,
+  name: "sun",
+  desc: "123",
+  difficulty: "medium"
+}, {
+  id: 6,
+  name: "sun",
+  desc: "123",
+  difficulty: "super"
+}, ];

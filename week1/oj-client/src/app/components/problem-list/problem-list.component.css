@@ -1,0 +1,27 @@
+.difficulty {
+  min-width: 65px;
+  margin-right: 10px;
+}
+
+.label.difficulty {
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+  color: #fff;
+  font-size: 12px;
+  display: inline-block;
+  width: 70px;
+  text-align: center;
+  border-radius: 3px;
+}
+.diff-easy{
+  background-color: #4cecff;
+}
+.diff-medium{
+  background-color: #41c351;
+}
+.diff-hard{
+  background-color: #FF0000;
+}
+.diff-super{
+  background-color: #ad51ff;
+}
